@@ -2465,6 +2465,7 @@
                 "productTypeId": 4,
                 "productId": 37,
                 "learnmode": {
+                    "image": "/drivers/DSD37/assets/learnmode.svg",
                     "instruction": {
                         "en": "Press the button on your REPEATER",
                         "nl": "Druk op de knop in op je REPEATER"
