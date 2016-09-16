@@ -2454,6 +2454,35 @@
                     "value": 0
                 }
             ]
+        },
+        {
+            "id": "DSD37",
+            "name": {
+                "en": "Z-WAVE REPEATER"
+            },
+            "zwave": {
+                "manufacturerId": 134,
+                "productTypeId": 4,
+                "productId": 37,
+                "learnmode": {
+                    "instruction": {
+                        "en": "Press the button on your REPEATER",
+                        "nl": "Druk op de knop in op je REPEATER"
+                    }
+                },
+                "associationGroups": [
+                    1
+                ]
+            },
+            "class": "other",
+            "capabilities": [
+            ],
+            "images": {
+                "large": "/drivers/DSD37/assets/images/large.png",
+                "small": "/drivers/DSD37/assets/images/small.png"
+            },
+            "settings": [
+            ]
         }
     ]
 }
